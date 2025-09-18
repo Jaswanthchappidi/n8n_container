@@ -5,3 +5,4 @@ EXPOSE 10000
 
 # Start n8n
 CMD ["n8n"]
+    
